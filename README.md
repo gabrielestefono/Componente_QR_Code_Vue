@@ -23,7 +23,7 @@ cd Componente_QR_Code_Vue
 #### Instale as dependências 
 Execute o comando -> npm install
 #### Execute o aplicativo localmente:
-Execute o comando -> npm start
+Execute o comando -> npm run serve
 
 
 Pronto! Agora você deve estar visualizando o website localmente no seu navegador.
